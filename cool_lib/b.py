@@ -1,5 +1,5 @@
 import importlib.resources
-from . import data
+from cool_lib import data
 
 print("i am b")
 

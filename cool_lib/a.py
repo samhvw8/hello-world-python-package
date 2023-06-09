@@ -1,4 +1,4 @@
-from . import b
+from cool_lib import b
 
 
 def fun():
